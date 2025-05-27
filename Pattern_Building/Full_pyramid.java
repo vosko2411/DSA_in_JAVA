@@ -23,5 +23,5 @@ public class Full_pyramid {
         
     }
 }
-out put:
+
      
